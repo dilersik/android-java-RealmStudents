@@ -1,0 +1,12 @@
+<resources>
+    <string name="alterado_sucess">Alterado com sucesso</string>
+    <string name="app_name">RealmStudents</string>
+    <string name="app_realm_students">APP Realm Students</string>
+    <string name="atualiza_disci">Atualizar disciplina</string>
+    <string name="cadastrado_sucess">Cadastrado com sucesso</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="disciplines">Disciplinas</string>
+    <string name="estudantes">Estudantes</string>
+    <string name="falhou">Falhou</string>
+    <string name="update">Update</string>
+</resources>

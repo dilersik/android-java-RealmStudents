@@ -1,0 +1,41 @@
+[{
+  "id": 21,
+  "name": "Mathmatics"
+},
+  {
+    "id": 22,
+    "name": "History"
+  },
+  {
+    "id": 23,
+    "name": "Science"
+  },
+  {
+    "id": 24,
+    "name": "Biomedical Engineering"
+  },
+  {
+    "id": 25,
+    "name": "Statistics"
+  },
+  {
+    "id": 26,
+    "name": "Business"
+  },
+  {
+    "id": 27,
+    "name": "Chemistry"
+  },
+  {
+    "id": 28,
+    "name": "Art"
+  },
+  {
+    "id": 29,
+    "name": "Biology"
+  },
+  {
+    "id": 30,
+    "name": "Anthropology"
+  }
+]

@@ -1,0 +1,121 @@
+[{
+  "id": 21,
+  "name": "Jorge Vasconcelos",
+  "email": null,
+  "grades": [{
+    "id": 25,
+    "grade": 55,
+    "discipline": {
+      "id": 29,
+      "name": "Biology"
+    }
+  },
+    {
+      "id": 29,
+      "grade": 99,
+      "discipline": {
+        "id": 27,
+        "name": "Chemistry"
+      }
+    }]
+},
+  {
+    "id": 22,
+    "name": "Juliana Cunha",
+    "email": null,
+    "grades": [{
+      "id": 23,
+      "grade": 91,
+      "discipline": {
+        "id": 25,
+        "name": "Statistics"
+      }
+    },
+      {
+        "id": 30,
+        "grade": 65,
+        "discipline": {
+          "id": 23,
+          "name": "Science"
+        }
+      }]
+  },
+  {
+    "id": 23,
+    "name": "Fernanda Oliveira",
+    "email": null,
+    "grades": [{
+      "id": 21,
+      "grade": 89,
+      "discipline": {
+        "id": 22,
+        "name": "History"
+      }
+    }]
+  },
+  {
+    "id": 24,
+    "name": "Carlos Alves",
+    "email": null,
+    "grades": [{
+      "id": 24,
+      "grade": 90,
+      "discipline": {
+        "id": 30,
+        "name": "Anthropology"
+      }
+    }]
+  },
+  {
+    "id": 25,
+    "name": "Adriana Solimões",
+    "email": null,
+    "grades": [{
+      "id": 27,
+      "grade": 100,
+      "discipline": {
+        "id": 26,
+        "name": "Business"
+      }
+    }]
+  },
+  {
+    "id": 26,
+    "name": "Kelly Sózer",
+    "email": null,
+    "grades": [{
+      "id": 28,
+      "grade": 97.5,
+      "discipline": {
+        "id": 28,
+        "name": "Art"
+      }
+    }]
+  },
+  {
+    "id": 27,
+    "name": "Rodney Silva",
+    "email": null,
+    "grades": [{
+      "id": 26,
+      "grade": 69.5,
+      "discipline": {
+        "id": 24,
+        "name": "Biomedical Engineering"
+      }
+    }]
+  },
+  {
+    "id": 28,
+    "name": "Muhammed Salim",
+    "email": null,
+    "grades": [{
+      "id": 22,
+      "grade": 67.5,
+      "discipline": {
+        "id": 21,
+        "name": "Mathmatics"
+      }
+    }]
+  }
+]
